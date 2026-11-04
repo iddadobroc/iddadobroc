@@ -2,7 +2,7 @@
 
 `Data Curator / Data Scientist`
 
-I work where **data engineering, machine learning and AI agents** meet, turning messy, fragmented information into reliable data that people can act on.
+My focus is where **data engineering, machine learning and AI agents** meet, turning messy, fragmented information into reliable data that people can act on.
 
 I'm currently a **Data Curator at [Dealroom.co](https://dealroom.co)** in Lisbon, working on startup and venture capital intelligence. I build pipelines that source, match, clean, validate and load company, founder and funding data; design the rules, quality checks and review processes that let AI agents update data autonomously; and developed the **Unicorn Score** and **Exit Score**, ML predictive models that identify the startups most likely to become unicorns or reach successful exits.
 
