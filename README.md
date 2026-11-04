@@ -49,7 +49,8 @@ Interested in Machine Learning, Deep Learning, Neural Networks and AI Engineerin
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddadobroc&layout=compact&theme=github_dark)
+![Stats](./profile-summary-card-output/github_dark/3-stats.svg)
+![Top Languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ## 📫 Contacts
 
