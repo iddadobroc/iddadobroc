@@ -26,12 +26,13 @@ Interested in Machine Learning, Deep Learning, Neural Networks and AI Engineerin
 ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-191919?style=flat&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
 | Project | Description |
 |---|---|
 | [Fantacalcio Mantra Auction Optimizer](https://github.com/iddadobroc/fantacalcio-mantra-auction-optimizer) | End-to-end decision-support system for the Fantacalcio auction: ML point projections, price modeling, combinatorial squad and formation optimization, Monte Carlo simulation and a live auction dashboard |
 | [Diabetes Hospital Readmission](https://github.com/iddadobroc/Diabetes-Hospital-Readmission-Data-Science-Project) | Predicting 30-day readmission risk for diabetic patients (UCI "Diabetes 130-US hospitals") — NOVA IMS Data Science Bootcamp |
+| [Lisbon Airport Analysis](https://github.com/iddadobroc/Lisbon_Airport_Analysis) | Is Lisbon Airport really over capacity? Cleaning and reconciling Eurostat aviation data (1996–2024) to analyze passenger demand, load factor and route efficiency |
 | [DSML Clustering](https://github.com/iddadobroc/DSML_Group11_Clustering) | Clustering project for the Data Science & Machine Learning course at NOVA IMS |
 | [SpaceX Falcon 9 Analysis](https://github.com/iddadobroc/SpaceX-Falcon-9-Data-Science-Analysis) | Data science project on Falcon 9 launches (IBM Data Science capstone) |
 | [Airbnb Price Prediction](https://github.com/iddadobroc/Airbnb_Price_Prediction) | Regression models for Airbnb listing prices |
