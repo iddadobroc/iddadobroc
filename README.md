@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davide Corbo
+# 👋 Hello!
 
 `Data Curator / Data Scientist`
 
