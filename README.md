@@ -45,7 +45,7 @@ Interested in Machine Learning, Deep Learning, Neural Networks and AI Engineerin
 
 ## ✍️ Writing
 
-[*The Chessboard of Being. Between Necessity and Freedom, a Holistic Vision of the Universe*]([https://www.researchgate.net/publication/388492588_The_Chessboard_of_Being_Between_Necessity_and_Freedom_a_Holistic_Vision_of_the_Universe]) (2025): a philosophical essay using chess as a model for a universe that is both rule-bound and unpredictable.
+[*The Chessboard of Being. Between Necessity and Freedom, a Holistic Vision of the Universe*](https://www.researchgate.net/publication/388492588_The_Chessboard_of_Being_Between_Necessity_and_Freedom_a_Holistic_Vision_of_the_Universe) (2025): a philosophical essay using chess as a model for a universe that is both rule-bound and unpredictable.
 
 ## 📊 GitHub Stats
 
